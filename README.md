@@ -1,3 +1,5 @@
+**WE DO NOT SUPPORT THIS. This fork is for a single change: Updating the depracated Facebook API 2.0 to the current 2.7. **
+
 everyauth
 ==========
 
